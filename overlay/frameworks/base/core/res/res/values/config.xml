@@ -39,7 +39,7 @@
     <bool name="config_intrusiveNotificationLed">true</bool>
 
     <!-- Default color for notification LED is green. -->
-    <color name="config_defaultNotificationColor">#ff0000ff</color>
+    <color name="config_defaultNotificationColor">#ffffffff</color>
 
     <!-- Default value for led color when battery is medium charged
          We set this to blue as low is red and charged is green -->
